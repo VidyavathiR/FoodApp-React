@@ -8,9 +8,16 @@ A React-based food app that allows users to browse and search for recipes. The a
 - **Recipe Details**: View detailed information about each recipe.
 - **Responsive Design**: Utilizes Bootstrap for a responsive layout on both desktop and mobile devices.
 
+## Screenshot
+
+![Food App Screenshot](https://github.com/VidyavathiR/FoodApp-React/blob/main/Screen%20Recording%202024-08-07%20131652.png)
+
+## Video Demo
+
 Check out the video demo of the app:
 
-- **[Watch the Video](https://github.com/VidyavathiR/FoodApp-React/blob/main/Screen%20Recording%202024-08-07%20131652.mp4)**
+[![Watch the Video](https://via.placeholder.com/600x400?text=Watch+the+Video)](https://github.com/VidyavathiR/FoodApp-React/blob/main/Screen%20Recording%202024-08-07%20131652.mp4)
+
 
 ## Technologies Used
 
