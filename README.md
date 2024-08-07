@@ -27,14 +27,10 @@ Check out the video demo of the app:
 - **Bootstrap**: For responsive design and styling.
 - **CSS**: For additional custom styling.
 
-## API Usage
 
-The app fetches data from the Spoonacular API:
-
-- **API Endpoint**: [Spoonacular Recipe API](https://api.spoonacular.com/recipes/)
 
 ---
 
-Thank You for CheckingOut!
+Thank you for checking out!
 
 
