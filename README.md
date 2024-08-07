@@ -10,7 +10,7 @@ A React-based food app that allows users to browse and search for recipes. The a
 
 Check out the video demo of the app:
 
-[Watch the Video](https://github.com/VidyavathiR/FoodApp-React/blob/main/Screen%20Recording%202024-08-07%20131652.mp4)
+- **[Watch the Video](https://github.com/VidyavathiR/FoodApp-React/blob/main/Screen%20Recording%202024-08-07%20131652.mp4)**
 
 ## Technologies Used
 
