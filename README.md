@@ -29,9 +29,12 @@ Check out the video demo of the app:
 
 ## API Usage
 
-The app fetches data from the following API:
+The app fetches data from the Spoonacular API:
 
-- **API Endpoint**: [Example API](https://api.example.com/recipes)
+- **API Endpoint**: [Spoonacular Recipe API](https://api.spoonacular.com/recipes/)
 
+---
+
+Thank You for CheckingOut!
 
 
